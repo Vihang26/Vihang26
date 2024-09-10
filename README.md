@@ -83,9 +83,6 @@ I'm open to collaborating on interesting ML, NLP, Data Science, and Software Dev
     <tr>
         <td align="center"><a href="https://github.com/Vihang26#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vihang26&theme=default"/></a><a href="https://github.com/Vihang26#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vihang26&theme=tokyonight"/></a></td>
     </tr>
-    <tr>
-        <td colspan="2" align="center"><a href="https://github.com/Vihang26#gh-light-mode-only"><img src="https://raw.githubusercontent.com/Vihang26/Vihang26/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Vihang26#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/Vihang26/Vihang26/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-    </tr>
 </table>
 
 
