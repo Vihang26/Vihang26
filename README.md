@@ -93,5 +93,6 @@ I'm open to collaborating on interesting ML, NLP, Data Science, and Software Dev
 <a href="https://github.com/Vihang26/Autonomous-driving"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vihang26&repo=Autonomous-driving&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
   <a href="https://github.com/Vihang26/DL-OBIA"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vihang26&repo=DL-OBIA&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
     <a href="https://github.com/Vihang26/AutoMLViz"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vihang26&repo=AutoMLViz&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
+    <a href="https://github.com/Vihang26/dl_t2i"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Vihang26&repo=dl_t2i&theme=react&bg_color=1F222E&title_color=8FBCBB&icon_color=F8D866&hide_border=true&show_icons=false" alt="vite-boilerplate"></a>
 </p>
 <br>
